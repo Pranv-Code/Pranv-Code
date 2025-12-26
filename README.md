@@ -1,72 +1,58 @@
-👋 Hi, I’m PRanav
+## 👋 Hi, I’m Nuke  
 
-🎓 Computer Engineering Student
-🐍 Python Developer (Flask | SQL | OOP)
-🌐 Building strong foundations in backend and web development
+🎓 **Computer Engineering Student**  
+🐍 **Python Developer (Flask | SQL | OOP)**  
+🌐 Building strong foundations in backend and web development  
 
-🧠 About Me
+---
 
-Strong foundation in Python and Object-Oriented Programming
+## 🧠 About Me
+- Strong foundation in **Python** and **Object-Oriented Programming**
+- Learning **Flask** for backend web development
+- Familiar with **SQL basics** and relational databases
+- Working knowledge of **HTML & CSS** for web interfaces
+- Interested in **backend systems**, **automation**, and **problem-solving**
+- Focused on writing **clean, maintainable code**
 
-Learning Flask for backend web development
+---
 
-Familiar with SQL basics and relational databases
+## 🛠️ Tech Stack
 
-Working knowledge of HTML & CSS for web interfaces
+### Languages & Core
+- Python  
+- SQL (Basics)  
+- HTML  
+- CSS  
 
-Interested in backend systems, automation, and problem-solving
+### Backend & Frameworks
+- Flask  
+- Flask-WTF  
+- Jinja2  
 
-Focused on writing clean, maintainable code
+### Concepts
+- Object-Oriented Programming (OOP)  
+- Basic Data Structures  
+- Input validation & error handling  
 
-🛠️ Tech Stack
-Languages & Core
+### Tools
+- Git & GitHub  
+- VS Code  
+- MySQL (basic usage)  
 
-Python
+---
 
-SQL (Basics)
+## 🎯 Currently Learning
+- Flask backend architecture  
+- SQL joins & queries  
+- REST APIs  
+- Database integration with Flask  
 
-HTML
+---
 
-CSS
+## 📫 Connect With Me
+- GitHub: **@your-username**
+- LinkedIn: *(add when ready)*  
 
-Backend & Frameworks
+---
 
-Flask
-
-Flask-WTF
-
-Jinja2
-
-Concepts
-
-Object-Oriented Programming (OOP)
-
-Basic Data Structures
-
-Input validation & error handling
-
-Tools
-
-Git & GitHub
-
-VS Code
-
-MySQL (basic usage)
-
-🎯 Currently Learning
-
-Flask backend architecture
-
-SQL joins & queries
-
-REST APIs
-
-Database integration with Flask
-
-📫 Connect With Me
-
-GitHub: @your-username
-
-LinkedIn: (add when ready)
-
-⭐ Learning by building, improving fundamentals, and staying consistent.
+⭐ *Learning by building, improving fundamentals, and staying consistent.*
