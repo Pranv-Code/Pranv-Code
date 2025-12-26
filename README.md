@@ -50,8 +50,8 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: **@your-username**
-- LinkedIn: *(add when ready)*  
+- GitHub: **@Pranv-Code**
+- LinkedIn: *(https://www.linkedin.com/in/pranav-sawant-2760642b6/)*  
 
 ---
 
