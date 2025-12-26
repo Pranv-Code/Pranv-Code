@@ -50,9 +50,10 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: **@Pranv-Code**
-- LinkedIn: *(https://www.linkedin.com/in/pranav-sawant-2760642b6/)*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pranav-sawant-2760642b6/)
+[![GitHub](https://img.shields.io/badge/GitHub-@Pranv--Code-black?logo=github)](https://github.com/Pranv-Code)
 
+ 
 ---
 
 ⭐ *Learning by building, improving fundamentals, and staying consistent.*
