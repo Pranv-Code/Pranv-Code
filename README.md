@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Nuke  
+## 👋 Hi, I’m Pranav
 
 🎓 **Computer Engineering Student**  
 🐍 **Python Developer (Flask | SQL | OOP)**  
